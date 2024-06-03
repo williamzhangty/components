@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/williamzhangty/components/static/css/main.4364be1c.css",
+    "main.js": "/williamzhangty/components/static/js/main.6bd5297e.js",
+    "static/media/Africa.jpg": "/williamzhangty/components/static/media/Africa.2d3bbc8b8abfe8abd9eb.jpg",
+    "static/media/Europe.jpg": "/williamzhangty/components/static/media/Europe.a89ab55588f583f25ed4.jpg",
+    "static/media/America.jpg": "/williamzhangty/components/static/media/America.c07a0077e497aa15f88e.jpg",
+    "static/media/Asia.jpg": "/williamzhangty/components/static/media/Asia.9a5c61970c381ad1d1eb.jpg",
+    "index.html": "/williamzhangty/components/index.html",
+    "main.4364be1c.css.map": "/williamzhangty/components/static/css/main.4364be1c.css.map",
+    "main.6bd5297e.js.map": "/williamzhangty/components/static/js/main.6bd5297e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4364be1c.css",
+    "static/js/main.6bd5297e.js"
+  ]
+}
